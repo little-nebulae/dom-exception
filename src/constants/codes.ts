@@ -1,0 +1,4 @@
+export const DOM_ERROR_CODE_ENUM = {
+  ABORT: "DOM_ABORT_ERROR",
+  TIMEOUT: "DOM_TIMEOUT_ERROR",
+} as const;
